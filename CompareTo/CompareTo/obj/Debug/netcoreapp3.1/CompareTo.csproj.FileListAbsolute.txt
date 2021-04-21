@@ -1,0 +1,13 @@
+C:\Users\Shubham\source\repos\CompareTo\CompareTo\obj\Debug\netcoreapp3.1\CompareTo.csprojAssemblyReference.cache
+C:\Users\Shubham\source\repos\CompareTo\CompareTo\obj\Debug\netcoreapp3.1\CompareTo.AssemblyInfoInputs.cache
+C:\Users\Shubham\source\repos\CompareTo\CompareTo\obj\Debug\netcoreapp3.1\CompareTo.AssemblyInfo.cs
+C:\Users\Shubham\source\repos\CompareTo\CompareTo\obj\Debug\netcoreapp3.1\CompareTo.csproj.CoreCompileInputs.cache
+C:\Users\Shubham\source\repos\CompareTo\CompareTo\bin\Debug\netcoreapp3.1\CompareTo.exe
+C:\Users\Shubham\source\repos\CompareTo\CompareTo\bin\Debug\netcoreapp3.1\CompareTo.deps.json
+C:\Users\Shubham\source\repos\CompareTo\CompareTo\bin\Debug\netcoreapp3.1\CompareTo.runtimeconfig.json
+C:\Users\Shubham\source\repos\CompareTo\CompareTo\bin\Debug\netcoreapp3.1\CompareTo.runtimeconfig.dev.json
+C:\Users\Shubham\source\repos\CompareTo\CompareTo\bin\Debug\netcoreapp3.1\CompareTo.dll
+C:\Users\Shubham\source\repos\CompareTo\CompareTo\bin\Debug\netcoreapp3.1\CompareTo.pdb
+C:\Users\Shubham\source\repos\CompareTo\CompareTo\obj\Debug\netcoreapp3.1\CompareTo.dll
+C:\Users\Shubham\source\repos\CompareTo\CompareTo\obj\Debug\netcoreapp3.1\CompareTo.pdb
+C:\Users\Shubham\source\repos\CompareTo\CompareTo\obj\Debug\netcoreapp3.1\CompareTo.genruntimeconfig.cache
